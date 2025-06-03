@@ -14,3 +14,10 @@ cd backend
 npm install
 nodemon server.js
 ```
+### Admin Panel
+
+```bash
+cd admin
+npm install
+npm run dev
+```
