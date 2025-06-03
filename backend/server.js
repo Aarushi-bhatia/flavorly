@@ -5,8 +5,6 @@ import foodRouter from "./routes/foodRoute.js"
 import userRouter from "./routes/userRoute.js"
 import 'dotenv/config'
 
-
-
 // app config 
 const app = express()
 const port = 4000
